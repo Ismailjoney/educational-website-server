@@ -1,0 +1,74 @@
+[
+    {
+      "id": "01",
+      "name": "Programing",
+      "header" : "Learn Programing laguage And make Your Career",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCSWaJpaadL3-uDgko0SqhmWCLxkG2OxHKFw&usqp=CAU",
+      "details": "Computer Programming is a step by step process of designing and developing various sets of computer programs to accomplish a specific computing outcome. The process comprises several tasks like analysis, coding, algorithm generation, checking accuracy and resource consumption of algorithms, etc. The purpose of computer programming is to find a sequence of instructions that solve a specific problem on a computer. Computer Programming is very easy if it is appropriately managed. There are many computer programming languages available so finalizing the right programming language is not an easy task.",
+      "admisionlastdate" : "02-12-2022",
+      "coursestart": "23 decembar 2022",
+      "coursefee" : "100$",
+      "Place": "Barisal,Bangladesh"
+
+    },
+    {
+        "id": "02",
+        "name": "Spoken English",
+        "header" : "Learn Spoken English  ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSRiAx-GP3-eZHGq25KCufku6E5SKr7l0NAA&usqp=CAU",
+        "details": "Language-learning software programs like Rosetta Stone have been helping people learn English for years. Other technologies have also been made available that are designed to help users increase their knowledge or maintain their English proficiency. There are many different types of technology that you can choose based on how you learn best. For example, Fluenz is a popular software that teaches through instructor-led videos, while Duolingo is an app you can use on your smartphone for daily, on-the-go practice.Grammarly Premium can also be a valuable tool to help you write in English with fluency—it includes suggestions specifically around grammar rules and idioms that are difficult to grasp. What’s more, users whose primary language is Spanish, Hindi, Mandarin, French, or German can find suggestions tailored to those languages.",
+        "admisionlastdate" : "13-11-2022",
+        "coursestart": "23 decembar 2022",
+        "coursefee" : "100$",
+        "Place": "Barisal,Bangladesh"
+  
+      },
+      {
+        "id": "03",
+        "name": "PhotoShop Designe",
+        "header" : "Learn Digital Marketing  ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-YfCe6FwCtHb5RQNNQDAL7ZB7UsQShA6W6g&usqp=CAU",
+        "details": "Photoshop has been the industry standard image manipulation program for so long that its name has become a verb. It is common parlance to say that an image has been photoshopped or even just shopped meaning that it's been edited or manipulated.It uses a layer-based editing system that enables raster image creation and altering with multiple overlays that support transparency Layers can also act as masks or filters changing underlying colors. Shadows and other effects can be added to the layers.Adobe promotes Photoshop as a tool for professionals. However   use Photoshop as well with many helpful tutorials on the market that train users in how to use Photoshop's various features.",
+        "admisionlastdate" : "12-12-2022",
+        "coursestart": "2 january 2023",
+        "coursefee" : "230$",
+        "Place": "Barisal,Bangladesh"
+      },
+       
+      {
+        "id": "04",
+        "name": "Digital Marketing",
+        "header" : "Learn Digital Marketing  ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSk1aOFmwM-cvb1tnQGfQndqwP3QGQRPdKrQ&usqp=CAU",
+        "details": "Digital marketing and inbound marketing are easily confused, and for good reason. Digital marketing uses many of the same tools as inbound marketing—email and online content, to name a few. Both exist to capture the attention of prospects through the buyer’s journey and turn them into customers. But the 2 approaches take different views of the relationship between the tool and the goal.Digital marketing considers how individual tools or digital channels can convert prospects. A brand's digital marketing strategy may use multiple platforms or focus all of its efforts on 1 platform. For example, a company may primarily create content for social media platforms and email marketing campaigns while ignoring other digital marketing avenues.",
+        "admisionlastdate" : "24-12-2022",
+        "coursestart": "1 February 2022",
+        "coursefee" : "280$",
+        "Place": "Barisal,Bangladesh"
+  
+      },
+      {
+        "id": "05",
+        "name": "Games Making",
+        "header" : "Learn a Game Making Software ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1lFsmrgzDx3HGE_wsqWtGKcpsQVjgx7PhA&usqp=CAU",
+        "details": "API Assets. Material Editor. Visual Scripting. VFX Editor. Try Snapchat Lens Studio Today! Share Your Creations on Lens Studio & Snapchatters Worldwide Can Use Your Unique Lens. AR Software, For Free. Add Magic To Your Designs. Dream It, Build It. Snap Inc. AR Software. Take AR to New Dimensions. Create Your Own Filter. Redefining The AR World. Create, Explore, and Play.",
+        "admisionlastdate" : "30-12-2022",
+        "coursestart": "20 january 2022",
+        "coursefee" : "220$",
+        "Place": "Barisal,Bangladesh"
+  
+      },
+      {
+        "id": "06",
+        "name": "Basic Computer",
+        "header" : "Basic Computer Training ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDKv890zbLSQ9TuecSahMblaXieYYxoYHKCA&usqp=CAU",
+        "details": " Computer training online at WebSearch101.com. Check out results for Computer training online. Internet Information. Find Answers. Search Now. Related Searches. Quality Results. Popular Searches. Types: Home & Garden, Finance, Vehicles.According to Oxford Learning, “cognitive learning” is the function based on how a person processes and reasons information. It revolves around many factors, including problem-solving",
+        "admisionlastdate" : "12-12-2022",
+        "coursestart": "30 decembar 2022",
+        "coursefee" : "160$",
+        "Place": "Barisal,Bangladesh"
+  
+      }
+]
