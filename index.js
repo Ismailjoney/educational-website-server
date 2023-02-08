@@ -25,18 +25,10 @@ app.get('/coursedetails',(req,res) =>{
 app.get('/course/:id',(req,res)=>{
     id = req.params.id;
     const selectedCourse= coursedetails.find(c => c.id === id)
-    console.log(selectedCourse)
     res.send(selectedCourse)
 }) 
 
-
-
-
-
-
-
-
-
+ 
 //testing purpose
 app.get('/', (req, res) => {
     res.send(`Educational website is running`)
